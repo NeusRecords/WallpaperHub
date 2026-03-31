@@ -28,7 +28,7 @@
 
 | Pantalla de Inicio | Categorías | Vista Previa |
 | :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![Categories](https://via.placeholder.com/200x400?text=Categories) | ![Preview](https://via.placeholder.com/200x400?text=Wallpaper+Preview) |
+| ![Home](assets/screenshots/home.png) | ![Categories](assets/screenshots/categories.png) | ![Preview](assets/screenshots/preview.jpg) |
 
 ---
 
