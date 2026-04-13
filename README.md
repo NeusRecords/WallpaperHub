@@ -24,7 +24,6 @@
 ## 📸 Demo & Screenshots
 
 > [!TIP]
-> Puedes añadir tus propias capturas de pantalla en la carpeta `assets/screenshots/` y enlazarlas aquí.
 
 | Pantalla de Inicio | Categorías | Vista Previa |
 | :---: | :---: | :---: |
@@ -50,7 +49,7 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1.  **Clona el repositorio**:
     ```bash
-    git clone https://github.com/NeusRecords/WallpaperHub.git
+    git clone https://github.com/pedrolouisq/WallpaperHub.git
     ```
 
 2.  **Entra a la carpeta del proyecto**:
@@ -92,4 +91,4 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 
 ---
 
-Desarrollado con ❤️ por **[NeusRecords](https://github.com/NeusRecords)**
+Desarrollado con ❤️ por **[Pedro Moreno](https://github.com/pedrolouisq)**
